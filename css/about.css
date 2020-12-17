@@ -1,0 +1,14 @@
+html{
+    font-size: 10px;
+}
+
+body{
+    background: url('../imgs/about.jpg');
+    background-position: 0 1000px;
+    font-family: Roboto, sans-serif;
+}
+
+.container{
+    max-width: 1100px;
+
+}
