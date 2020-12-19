@@ -50,7 +50,7 @@ ul{
     transition: all ease-in-out 250ms;
 }
 .box li a:hover{
-    color: #b9b9b9;
+    color: #32CD32;
 }
 
 footer{
@@ -83,7 +83,7 @@ footer{
 }
 
 .footer-social-icons ul li:hover{
-    background: #32CD32;
+    background: white;
 }
 .footer-social-icons ul li a{
     color: #272727;
